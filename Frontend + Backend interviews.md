@@ -83,18 +83,6 @@
 - **Redux Toolkit**
   - What is Redux Toolkit? What problems does it solve?
 
-## React-router
-
-- **BrowserRouter**
-  - Why wrap the entire component tree in BrowserRouter? Difference between BrowserRouter and HashRouter
-- **Route Components in Switch**
-  - Why wrap Route components in Switch?
-- **Route Navigation**
-  - How to navigate the user to a new route?
-- **React-router Hooks**
-  - What other hooks are there for working with react-router?
-
-
 # Frontend
 
 ## Topics
